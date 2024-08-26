@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crux007
-- 👀 I’m interested in Data Science, Business analysis and Project management
-- 🌱 I’m currently learning to be vastly knowledgeable in my field of interest
-- 💞️ I’m looking to collaborate on projects that requires Project management, data scientist and business analytical skills
+- 👀 Data-driven Project Data Manager who accelerates seed to growth-stage companies with AI/ML expertise
+- 🌱 I am currently developing an SQL agent that will return reports using natural language to query a database on a chatbot
+- 💞️ I’m looking to offer my expertise as a Project management, data scientist and business analyst
 - 📫 How to reach me: onuorahvc@gmail.com
 
 <!---
